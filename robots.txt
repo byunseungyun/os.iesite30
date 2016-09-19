@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://os.iesite.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
